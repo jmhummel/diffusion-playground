@@ -1,0 +1,8 @@
+notebook
+ipywidgets
+diffusers
+transformers
+torch
+torchvision
+opencv-python
+matplotlib
